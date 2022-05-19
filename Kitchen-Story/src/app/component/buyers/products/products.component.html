@@ -1,0 +1,29 @@
+
+
+
+
+  <br>
+  <h2>Search Products</h2><br>
+  <div class="text-center">
+<input type="text" class="form-control search-form"  [ngModelOptions]="{standalone: true}" [(ngModel)]="searchFilter" style="width:25%;" placeholder="Search">
+</div>
+ 
+  
+
+
+<div class="container mt-5">
+    <div class="card-deck">
+       <div class="card" *ngFor="let product of products | searchFilter:searchFilter" >
+          <div class="card-body">
+            <h5 class="card-title">{{product.id }} - {{product.name}}</h5>
+            <p class="card-text">Desc : {{product.description}}</p>
+            <p class="card-text">Price : {{product.price}}</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">Last updated 3 mins ago</small> <br>
+              <a (click)="addtoCart(product)" class="badge badge-warning mr-2">AddtoCart</a>
+             
+          </div>
+        
+      </div>
+</div>

@@ -1,0 +1,17 @@
+.container, .container-lg, .container-md, .container-sm {
+    max-width: 100%;
+    height: 650px;
+}
+.card{
+    background-color: rgb(97 173 152);
+    max-width: 200px;
+}
+
+.w-100 {
+    width: 30%!important;
+    float: center;
+}
+
+.search-wrap{
+    margin: 0 auto;
+    }

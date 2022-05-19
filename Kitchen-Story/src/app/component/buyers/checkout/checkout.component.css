@@ -1,0 +1,29 @@
+.paymentcontainer{
+    border: 2px solid black;
+    margin-top: 5%;
+    padding: 3%;
+    background-color:   rgb(97 173 152);
+    font-weight: bold;
+    font-size: medium;
+    width: 100%;
+}
+
+.billcontainer
+{
+    border: 2px solid black;
+    margin-top: 5%;
+    padding: 3%;
+    background-color:   rgb(97 173 152);
+    font-weight: bold;
+    font-size: medium;
+    width: 100%;  
+   }
+.btn-primary {
+    color: #fff;
+    background-color: var(--success);
+    border-color: #007bff;
+}
+
+.pt-5, .py-5 {
+    padding-top: 3rem!important;
+}

@@ -1,0 +1,15 @@
+
+
+.container, .container-lg, .container-md, .container-sm {
+    max-width: 50%;
+    height: 50%;
+    background-color: rgb(97 173 152);
+     font-weight: bold;
+   
+}
+.lead {
+    font-size: 1.1rem;
+    font-weight: bold;
+    line-height: 2;
+    color: black;
+}

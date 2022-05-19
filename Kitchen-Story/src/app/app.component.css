@@ -1,0 +1,14 @@
+.container, .container-lg, .container-md, .container-sm {
+    max-width: 100%;
+  
+    min-height: 600px;
+    background-color: hsl(0deg 11% 88%);
+    /*background-image: url("~src/assets/img/store.jpg");*/
+  
+}
+.body{
+    background-color: hsl(0deg 11% 88%);
+    width: 100%;
+    min-height: 700px;
+   
+}

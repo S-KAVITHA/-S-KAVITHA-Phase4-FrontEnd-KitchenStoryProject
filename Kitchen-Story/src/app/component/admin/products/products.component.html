@@ -1,0 +1,17 @@
+<div class="container mt-5">
+    <div class="card-deck">
+        <div class="card" *ngFor="let product of products">
+          <!-- <img src="..." class="card-img-top" alt="..."> -->
+          <div class="card-body">
+            <h5 class="card-title">{{product.id }} - {{product.name}}</h5>
+            <p class="card-text">Desc : {{product.description}}</p>
+            <p  class="card-text"> <strong>Price : {{product.price}}</strong></p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">Last updated 3 mins ago</small> <br>
+              <a (click)="onEdit(product)" class="badge badge-warning mr-2">Edit</a>
+              <a (click)="onDelete(product.id)"class="badge badge-danger">Delete</a>
+          </div>
+        </div>
+      </div>
+</div>

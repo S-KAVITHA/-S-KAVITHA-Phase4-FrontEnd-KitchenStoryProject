@@ -1,0 +1,700 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "Green Cabbage",
+      "price": "3",
+      "description": "Fresh Organically grown green cabbage. Plus, these are packed with nutrients."
+    },
+    {
+      "name": "Sweet Onions, ",
+      "price": "5",
+      "description": " Mild, sweet flavor. Yummy addition to salads and sandwiches. High in Vitamins & nutrients.",
+      "id": 103
+    },
+    {
+      "name": "Fresh Red Bell Pepper",
+      "price": "4",
+      "description": " This vegetable contains essential vitamins such as A and C, and minerals including calcium and magnesium.",
+      "id": 104
+    },
+    {
+      "name": "Sliced White Mushrooms, 8 oz",
+      "price": "7",
+      "description": "Low in sodium and calories. Naturally fat-free and cholesterol-free.Great for breakfast, lunch, or dinner.",
+      "id": 105
+    },
+    {
+      "name": "Honey",
+      "price": "4",
+      "description": "Extra sweet honey .",
+      "id": 106
+    }
+  ],
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "password": "john@123",
+      "email": "john@gmail.com",
+      "state": "CA",
+      "zipcode": 678675,
+      "agree": true,
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Smith",
+      "password": "mike@123",
+      "email": "mike@gmail.com",
+      "state": "TX",
+      "zipcode": 56567,
+      "agree": true,
+      "role": "user",
+      "id": 2
+    },
+    {
+      "firstName": "Raja",
+      "lastName": "Kumaran",
+      "password": "1234523",
+      "email": "raja@gmail.com",
+      "state": "CA",
+      "zipcode": 45678,
+      "role": "admin",
+      "agree": true,
+      "id": 3
+    },
+    {
+      "firstName": "Ramya",
+      "lastName": "Pandian",
+      "password": "123456",
+      "email": "ramya@gmail.com",
+      "state": "NY",
+      "zipcode": 123678,
+      "role": "",
+      "agree": true,
+      "id": 4
+    },
+    {
+      "firstName": "ewr",
+      "lastName": "erwetr",
+      "password": "56576587687",
+      "email": "johnbbbbb@gmail.com",
+      "state": "TX",
+      "zipcode": 456546546,
+      "role": "",
+      "agree": true,
+      "id": 5
+    },
+    {
+      "firstName": "Pradeep",
+      "lastName": "Ramamoorthy",
+      "password": "54646756765757",
+      "email": "johnbbb@gmail.com",
+      "state": "NY",
+      "zipcode": 63368,
+      "role": "admin",
+      "agree": true,
+      "id": 6
+    },
+    {
+      "firstName": "qqqqq",
+      "lastName": "qqqq",
+      "password": "123567",
+      "email": "johnq@gmail.com",
+      "state": "CA",
+      "zipcode": 122222,
+      "role": "user",
+      "agree": true,
+      "id": 7
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 8
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 9
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 10
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 11
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 12
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 13
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 14
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 15
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 16
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 17
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 18
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 19
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 20
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 21
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 22
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 23
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 24
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 25
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 26
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 27
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 28
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 29
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 30
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 31
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 32
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 33
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 34
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 35
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 36
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 37
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 38
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 39
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 40
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 41
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 42
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 43
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 44
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 45
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 46
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 47
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 48
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 49
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 50
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 51
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 52
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 53
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 54
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 55
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 56
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 57
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 58
+    },
+    {
+      "firstName": "Karthik",
+      "lastName": "Ramalingam",
+      "password": "123123",
+      "email": "karthik@gmail.com",
+      "state": "TX",
+      "zipcode": 123456,
+      "role": "user",
+      "agree": true,
+      "id": 59
+    }
+  ],
+  "cartitem": [
+    {
+      "id": 102,
+      "name": "Apple Watch SE Smartwatch",
+      "price": "30900",
+      "description": "Apple Watch SE Smartwatch (GPS, 44mm) (Heart Rate Monitoring, MYDT2HN/A, Space Grey/Black, Sport Band)//"
+    },
+    {
+      "name": "Apple MacBook Air (MGND3HN/A) ",
+      "price": "83900",
+      "description": "Apple MacBook Air (MGND3HN/A) M1 Chip macOS Big Sur Laptop (8GB RAM, 256GB SSD, Apple M1 GPU, 33.78cm, Gold)",
+      "id": 104
+    }
+  ],
+  "payments": []
+}
